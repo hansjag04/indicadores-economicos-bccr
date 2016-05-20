@@ -23,7 +23,7 @@ public class App{
         //Obtiene el valor del precio de compra USD
         servicioTipoCambio.getCompra();
         
-        //Obtiene el valor del precio de compra USD
+        //Obtiene el valor del precio de venta USD
         servicioTipoCambio.getVenta();
   }
 }
